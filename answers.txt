@@ -18,4 +18,13 @@ data. By then using machine learning models, banks will
 be able to detect potential credit card fraud when 
 spending patterns do not match those of the customer. 
 
+Q3: What is the difference between merging and rebasing?
 
+Answer: Merging and rebasing both integrate changes from 
+one branch to another, but they do it in different ways. 
+In merge, the existing branches are not changed in 
+anyway, as the histories of both branches are saved. Merge
+simply combines two branches into one.  On the other hand,
+rebase rewrites the project history, as it creates new 
+commits for each commit in the original branch. Thus, it
+has a linear project history.
