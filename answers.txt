@@ -28,3 +28,11 @@ simply combines two branches into one.  On the other hand,
 rebase rewrites the project history, as it creates new 
 commits for each commit in the original branch. Thus, it
 has a linear project history.
+
+Q4: What skills do you hope to improve during this 
+course?
+
+Answer: I hope to improve my proficiency in Python and 
+get more comfortable with its libraries. I also hope to 
+develop skills in machine learning, NLP, and have a 
+strong understanding in graph theory. 
