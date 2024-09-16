@@ -1,0 +1,8 @@
+Q2: What field could data science be applied to? Give and 
+Example and how it might help.
+
+Answer: Data science could be applied to the finance 
+field. For example, banks can analyze customer spending 
+data. By then using machine learning models, banks will 
+be able to detect potential credit card fraud when 
+spending patterns do not match those of the customer. 
