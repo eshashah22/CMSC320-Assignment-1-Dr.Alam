@@ -1,3 +1,14 @@
+Q1: Why might be consider using git?                
+                                                     
+Answer: We might consider using git because it helps
+developers manage and track changes in their code. It  
+        
+also lets you look at previous versions of your code 
+if something goes wrong or you want to see an older 
+version. You would also use Git to work with other 
+developers and can work at the same time on different 
+branches.
+
 Q2: What field could data science be applied to? Give and 
 Example and how it might help.
 
@@ -6,3 +17,4 @@ field. For example, banks can analyze customer spending
 data. By then using machine learning models, banks will 
 be able to detect potential credit card fraud when 
 spending patterns do not match those of the customer. 
+
